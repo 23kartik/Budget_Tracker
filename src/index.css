@@ -1,0 +1,12 @@
+#root, body, html {
+    height: 100%;
+    margin: 0;
+}
+/* 'https://www.xtrafondos.com/wallpapers/la-casa-de-papel-estilo-garena-free-fire-8259.jpg' 
+https://wallpaperaccess.com/full/1667651.jpg
+*/
+
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://wallpaperaccess.com/full/1667651.jpg');
+    background-size: cover;
+}
