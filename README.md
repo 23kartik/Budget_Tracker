@@ -1,6 +1,6 @@
 # Budget Tracker
-## An App that helps you to keep a track of you expenditure and income . It provides you with a feature to add an expense or income through voice.
-## You can see the list of the transactions you made .
+## An App that helps you to keep a track of you expenditure and income . It provides you with a feature to add an expense or income through voice.You can see the list of the transactions you made . Like they say it "You can save it , If you can trace it".
+
 
 <img width="1438" alt="Screenshot 2022-01-21 at 12 18 10 AM" src="https://user-images.githubusercontent.com/84660976/150651568-9356ef0f-68c6-4d54-a053-65d2ecb2f674.png">
 
